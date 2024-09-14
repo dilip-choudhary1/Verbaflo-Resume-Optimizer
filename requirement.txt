@@ -1,5 +1,6 @@
 streamlit==1.7.0
 PyPDF2==1.26.0
 openai==0.6.0
+fitz
 beautifulsoup4 
 html2text
