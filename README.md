@@ -25,3 +25,12 @@ This web application allows you to upload a LinkedIn PDF resume and convert it i
 4. Deploy the application using Vercel or GitHub Pages.
 5. Upload your LinkedIn PDF and generate your resume.
 
+## Install dependencies:
+pip install -r requirements.txt
+
+## Run the Streamlit application:
+streamlit run app.py
+
+Open the application in your browser at http://localhost:8501
+
+
